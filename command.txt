@@ -1,1 +1,1 @@
-WIPE_DATA
+SAFE
